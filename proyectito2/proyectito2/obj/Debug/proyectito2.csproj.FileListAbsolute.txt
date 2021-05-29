@@ -1,9 +1,0 @@
-C:\Users\Daniela\source\repos\proyectito2\proyectito2\bin\Debug\proyectito2.exe.config
-C:\Users\Daniela\source\repos\proyectito2\proyectito2\bin\Debug\proyectito2.exe
-C:\Users\Daniela\source\repos\proyectito2\proyectito2\bin\Debug\proyectito2.pdb
-C:\Users\Daniela\source\repos\proyectito2\proyectito2\obj\Debug\proyectito2.csprojAssemblyReference.cache
-C:\Users\Daniela\source\repos\proyectito2\proyectito2\obj\Debug\proyectito2.Form1.resources
-C:\Users\Daniela\source\repos\proyectito2\proyectito2\obj\Debug\proyectito2.Properties.Resources.resources
-C:\Users\Daniela\source\repos\proyectito2\proyectito2\obj\Debug\proyectito2.csproj.GenerateResource.cache
-C:\Users\Daniela\source\repos\proyectito2\proyectito2\obj\Debug\proyectito2.exe
-C:\Users\Daniela\source\repos\proyectito2\proyectito2\obj\Debug\proyectito2.pdb
