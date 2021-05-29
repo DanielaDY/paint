@@ -1,0 +1,5 @@
+C:\Users\Daniela\source\repos\LibreriaPixie\LibreriaPixie\bin\Debug\LibreriaPixie.dll
+C:\Users\Daniela\source\repos\LibreriaPixie\LibreriaPixie\bin\Debug\LibreriaPixie.pdb
+C:\Users\Daniela\source\repos\LibreriaPixie\LibreriaPixie\obj\Debug\LibreriaPixie.csprojAssemblyReference.cache
+C:\Users\Daniela\source\repos\LibreriaPixie\LibreriaPixie\obj\Debug\LibreriaPixie.dll
+C:\Users\Daniela\source\repos\LibreriaPixie\LibreriaPixie\obj\Debug\LibreriaPixie.pdb
